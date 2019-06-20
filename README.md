@@ -182,11 +182,11 @@ The 3D map extracted from the viewer is also shown here; and it is evident that 
 
 --
 
-![3d_map](output/snapshots/map_3D.jpg)
+![map](output/snapshots/map_3D.jpg)
 
 --
 
-![3d_scene](output/snapshots/scene_3D.jpg)
+![scene](output/snapshots/scene_3D.jpg)
 
 --
 
