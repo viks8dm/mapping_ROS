@@ -176,13 +176,13 @@ Once open, some windows were added for better view of the relevant information, 
 
 A sample window from the viewer is shown here:
 
-![rtab_viewer](./output/snapshots/rtab_viewer.jpg)
+![rtab_viewer](output/snapshots/rtab_viewer.jpg)
 
 The 3D map extracted from the viewer is also shown here; and it is evident that is closely matches the actual 3D scene.
 
-![3d_map](./output/snapshots/map_3D.jpg)
+![3d_map](output/snapshots/map_3D.jpg)
 
-![3d_scene](./output/snapshots/scene_3D.jpg)
+![3d_scene](output/snapshots/scene_3D.jpg)
 
 #### localization
 
